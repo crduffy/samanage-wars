@@ -1,6 +1,6 @@
 angular.module('assassins').controller('BodyCtrl', function($scope, $http) {
     var apiGet = function(endpoint, success, fail) {
-        $http({method: 'GET', url: '/api/v1/'+endpoint+'.json'}).success(success).error(fail);
+        $http({method: 'GET', url: 'api/v1/'+endpoint+'.json'}).success(success).error(fail);
     }
 
     apiGet('employees', function(data, status, headers, config) {
