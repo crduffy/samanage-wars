@@ -34,16 +34,23 @@
                 -ms-filter: sepia(1);
             }
 
-            .hitlist img {
-                border: solid 1px #ff0000;
+            .hitlist, .grayscale {
+                float: left;
+                clear: both;
             }
+            .hitlist img, .grayscale img {
+                border: solid 1px #ff0000;
+                height: 200px;
+                width: 200px;
+            }
+
         </style>
     </head>
     <body data-ng-controller="BodyCtrl">
         <div class="container">
             <h1>ABT Assassins</h1>
-            <p class="lead">Last updated {{lastUpdated|date:'short'}}</p>
-            <p>Start Date and time 10am</p>
+            <p class="lead">Last updated Sept 4 10:52</p>
+            
             <div class="row">
                 <div class="col-xs-12">
                     <div class="col-lg-4 col-xs-12">
@@ -74,7 +81,9 @@
                         <img data-ng-src="{{employees[slug].image}}" class="pull-left" />
                         <div>
                             <h3 data-ng-bind="employees[slug].name"></h3>
+                            <p><span>Kills:</span><span data-ng-bind="employees[slug].kills"></span></p>
                         </div>
+                        
                         <br class="clearfix" />
                     </div>
                 </div>
@@ -84,6 +93,7 @@
                         <img data-ng-src="{{employees[slug].image}}" class="pull-left" />
                         <div>
                             <h3 data-ng-bind="employees[slug].name"></h3>
+                            <p><span>Kills:</span><span data-ng-bind="employees[slug].kills"></span></p>
                         </div>
                         <br class="clearfix" />
                     </div>
