@@ -1,1 +1,142 @@
-{"at":{"name":"&","image":"img/profiles/symbols/amp.jpg","kills":"1"},"buckwheat":{"name":"buckwheat","image":"img/profiles/symbols/buckwheat.jpg","kills":"2"},"bullseye":{"name":"Bullseye","image":"img/profiles/symbols/bullseye.jpg","kills":"1"},"cdruid":{"name":"Cantankerous Druid","image":"img/profiles/symbols/cdruid.jpg","kills":"0"},"ctbt0211":{"name":"ctbt0211","image":"img/profiles/symbols/ctbt.jpg","kills":"0"},"despair":{"name":"Despair","image":"img/profiles/symbols/despair.jpg","kills":"0"},"deuce":{"name":"Deuce","image":"img/profiles/symbols/deuce.jpg","kills":"0"},"elemental":{"name":"Elemental","image":"img/profiles/symbols/elemental.jpg","kills":"0"},"imasquirt":{"name":"imasquirt","image":"img/profiles/symbols/imasquirt.jpg","kills":"3"},"jasonbourne":{"name":"Jason Bourne","image":"img/profiles/symbols/jasonbourne.jpg","kills":"1"},"sebastian":{"name":"Li'l Sebastian","image":"img/profiles/symbols/lilsebastian.jpg","kills":"0"},"mattathias":{"name":"Mattathias","image":"img/profiles/symbols/mattathias.jpg","kills":"0"},"maverick":{"name":"Maverick","image":"img/profiles/symbols/maverick.jpg","kills":"1"},"notmyjobes":{"name":"notmyjobes","image":"img/profiles/symbols/notmyjobes.jpg","kills":"0"},"sabretooth":{"name":"Sabretooth","image":"img/profiles/symbols/sabretooth.jpg","kills":"0"},"squirrel":{"name":"Secret Squirrel","image":"img/profiles/symbols/squirrel.jpg","kills":"1"},"spanky":{"name":"Spanky","image":"img/profiles/symbols/spanky.jpg","kills":"8"},"cobrawolf":{"name":"Cobra Wolf","image":"img/profiles/symbols/cobrawolf.jpg","kills":"1"},"thetokenman":{"name":"TheTokenMan","image":"img/profiles/symbols/thetokenman.jpg","kills":"0"},"koko":{"name":"Koko","image":"img/profiles/symbols/koko.jpg","kills":"0"},"unnamed2":{"name":"Black Mamba","image":"img/profiles/symbols/unnamed2.jpg","kills":"1"},"unnamed3":{"name":"Unnamed3","image":"img/profiles/symbols/unnamed3.jpg","kills":"2"},"lasagna":{"name":"Lasagna","image":"img/profiles/symbols/lasagna.jpg","kills":"0"},"yippie":{"name":"Yippie Ki Yay","image":"img/profiles/symbols/yippie.jpg","kills":"0"}}
+{
+  "9ine": {
+    "name": "9ine",
+    "image": "img/profiles/9ine.jpg",
+    "kills": "0"
+  },
+  "steve": {
+    "name": "Alan Allan Allen STEVE",
+    "image": "img/profiles/steve.jpg",
+    "kills": "0"
+  },
+  "angeleyes": {
+    "name": "angel eyes",
+    "image": "img/profiles/angeleyes.jpg",
+    "kills": "0"
+  },
+  "artemis": {
+    "name": "Artemis",
+    "image": "img/profiles/artemis.jpg",
+    "kills": "0"
+  },
+  "baby": {
+    "name": "BABY",
+    "image": "img/profiles/baby.jpg",
+    "kills": "0"
+  },
+  "barneyfife": {
+    "name": "Barney Fife",
+    "image": "img/profiles/barneyfife.jpg",
+    "kills": "0"
+  },
+  "bettywhite": {
+    "name": "Betty White",
+    "image": "img/profiles/bettywhite.jpg",
+    "kills": "0"
+  },
+  "helena": {
+    "name": "Helena",
+    "image": "img/profiles/helena.jpg",
+    "kills": "0"
+  },
+  "jabberwocky": {
+    "name": "Jabberwocky",
+    "image": "img/profiles/jabberwocky.jpg",
+    "kills": "0"
+  },
+  "killshade": {
+    "name": "Killshade",
+    "image": "img/profiles/killshade.png",
+    "kills": "0"
+  },
+  "leon": {
+    "name": "Leon",
+    "image": "img/profiles/leon.jpg",
+    "kills": "0"
+  },
+  "letsmakeadeal": {
+    "name": "letsmakeadeal",
+    "image": "img/profiles/letsmakeadeal.jpg",
+    "kills": "0"
+  },
+  "liamneeson": {
+    "name": "Liam Neeson",
+    "image": "img/profiles/liamneeson.jpg",
+    "kills": "0"
+  },
+  "louise": {
+    "name": "Louise",
+    "image": "img/profiles/louise.jpg",
+    "kills": "0"
+  },
+  "mantis": {
+    "name": "Mantis",
+    "image": "img/profiles/mantis.jpg",
+    "kills": "0"
+  },
+  "mrpink": {
+    "name": "Mr. Pink",
+    "image": "img/profiles/mrpink.jpg",
+    "kills": "0"
+  },
+  "oddjob": {
+    "name": "Odd Job",
+    "image": "img/profiles/oddjob.jpg",
+    "kills": "0"
+  },
+  "psychokiller": {
+    "name": "PsychoKiller",
+    "image": "img/profiles/psychokiller.jpg",
+    "kills": "0"
+  },
+  "sabertooth": {
+    "name": "Sabertooth",
+    "image": "img/profiles/sabertooth.gif",
+    "kills": "0"
+  },
+  "sergeantslaughter": {
+    "name": "Seargent Slaughter",
+    "image": "img/profiles/sergeantslaughter.jpg",
+    "kills": "0"
+  },
+  "shifty": {
+    "name": "Shifty",
+    "image": "img/profiles/shifty.jpg",
+    "kills": "0"
+  },
+  "splet": {
+    "name": "Splet",
+    "image": "img/profiles/splet.jpg",
+    "kills": "0"
+  },
+  "spookybt": {
+    "name": "SpookyBT",
+    "image": "img/profiles/spookybt.jpg",
+    "kills": "0"
+  },
+  "thejackal": {
+    "name": "The Jackal",
+    "image": "img/profiles/thejackal.jpg",
+    "kills": "0"
+  },
+  "themechanic": {
+    "name": "The Mechanic",
+    "image": "img/profiles/themechanic.jpg",
+    "kills": "0"
+  },
+  "thesmilingsniper": {
+    "name": "The Smiling Sniper",
+    "image": "img/profiles/thesmilingsniper.jpg",
+    "kills": "0"
+  },
+  "turbinator": {
+    "name": "Turbinator",
+    "image": "img/profiles/turbinator.jpg",
+    "kills": "0"
+  },
+  "vampirekitten": {
+    "name": "Vampire Kitten",
+    "image": "img/profiles/vampirekitten.jpg",
+    "kills": "0"
+  }
+}
