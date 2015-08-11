@@ -138,5 +138,10 @@
     "name": "Vampire Kitten",
     "image": "img/profiles/vampirekitten.jpg",
     "kills": "0"
+  },
+  "gilligan": {
+    "name": "Gilligan the wonder",
+    "image": "img/profiles/gilligan.jpg",
+    "kills": "0"
   }
 }
