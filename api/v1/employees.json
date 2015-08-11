@@ -17,7 +17,7 @@
   "artemis": {
     "name": "Artemis",
     "image": "img/profiles/artemis.jpg",
-    "kills": "0"
+    "kills": "2"
   },
   "baby": {
     "name": "BABY",
@@ -37,7 +37,7 @@
   "helena": {
     "name": "Helena",
     "image": "img/profiles/helena.jpg",
-    "kills": "0"
+    "kills": "1"
   },
   "jabberwocky": {
     "name": "Jabberwocky",
@@ -72,7 +72,7 @@
   "mantis": {
     "name": "Mantis",
     "image": "img/profiles/mantis.jpg",
-    "kills": "0"
+    "kills": "1"
   },
   "mrpink": {
     "name": "Mr. Pink",
@@ -102,7 +102,7 @@
   "shifty": {
     "name": "Shifty",
     "image": "img/profiles/shifty.jpg",
-    "kills": "0"
+    "kills": "1"
   },
   "splet": {
     "name": "Splet",
