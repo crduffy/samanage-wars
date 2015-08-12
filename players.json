@@ -1,0 +1,147 @@
+{
+    "9ine": {
+        "name": "9ine",
+        "kills": 0,
+        "status": 1
+    },
+    "steve": {
+        "name": "Alan Allan Allen STEVE",
+        "kills": 0,
+        "status": 0
+    },
+    "angeleyes": {
+        "name": "angel eyes",
+        "kills": 0,
+        "status": 1
+    },
+    "artemis": {
+        "name": "Artemis",
+        "kills": 2,
+        "status": 1
+    },
+    "baby": {
+        "name": "BABY",
+        "kills": 0,
+        "status": 1
+    },
+    "barneyfife": {
+        "name": "Barney Fife",
+        "kills": 0,
+        "status": 1
+    },
+    "bettywhite": {
+        "name": "Betty White",
+        "kills": 0,
+        "status": 0
+    },
+    "helena": {
+        "name": "Helena",
+        "kills": 1,
+        "status": 1
+    },
+    "jabberwocky": {
+        "name": "Jabberwocky",
+        "kills": 0,
+        "status": 1
+    },
+    "killshade": {
+        "name": "Killshade",
+        "kills": 0,
+        "status": 1
+    },
+    "leon": {
+        "name": "Leon",
+        "kills": 0,
+        "status": 1
+    },
+    "letsmakeadeal": {
+        "name": "letsmakeadeal",
+        "kills": 0,
+        "status": 0
+    },
+    "liamneeson": {
+        "name": "Liam Neeson",
+        "kills": 0,
+        "status": 1
+    },
+    "louise": {
+        "name": "Louise",
+        "kills": 0,
+        "status": 1
+    },
+    "mantis": {
+        "name": "Mantis",
+        "kills": 1,
+        "status": 1
+    },
+    "mrpink": {
+        "name": "Mr. Pink",
+        "kills": 0,
+        "status": 1
+    },
+    "oddjob": {
+        "name": "Odd Job",
+        "kills": 0,
+        "status": 1
+    },
+    "psychokiller": {
+        "name": "PsychoKiller",
+        "kills": 0,
+        "status": 1
+    },
+    "sabertooth": {
+        "name": "Sabertooth",
+        "kills": 0,
+        "status": 1
+    },
+    "sergeantslaughter": {
+        "name": "Sergeant Slaughter",
+        "kills": 0,
+        "status": 1
+    },
+    "shifty": {
+        "name": "Shifty",
+        "kills": 1,
+        "status": 1
+    },
+    "splet": {
+        "name": "Splet",
+        "kills": 0,
+        "status": 1
+    },
+    "spookybt": {
+        "name": "SpookyBT",
+        "kills": 0,
+        "status": 1
+    },
+    "thejackal": {
+        "name": "The Jackal",
+        "kills": 0,
+        "status": 0
+    },
+    "themechanic": {
+        "name": "The Mechanic",
+        "kills": 0,
+        "status": 1
+    },
+    "thesmilingsniper": {
+        "name": "The Smiling Sniper",
+        "kills": 0,
+        "status": 1
+    },
+    "turbinator": {
+        "name": "Turbinator",
+        "kills": 0,
+        "status": 0
+    },
+    "vampirekitten": {
+        "name": "Vampire Kitten",
+        "kills": 0,
+        "status": 1
+    },
+    "gilligan": {
+        "name": "Gilligan the wonder",
+        "kills": 0,
+        "status": 1
+    }
+}

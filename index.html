@@ -1,117 +1,54 @@
 <!DOCTYPE html>
-<html lang="en" data-ng-app="assassins">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>ABT Assassins</title>
-
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
-        <style>
-            .grayscale img
-            {
-                filter: grayscale(1);
-                -webkit-filter: grayscale(1);
-                -moz-filter: grayscale(1);
-                -o-filter: grayscale(1);
-                -ms-filter: grayscale(1);
-            }
-
-            .sepia img
-            {
-                filter: sepia(1);
-                -webkit-filter: sepia(1);
-                -moz-filter: sepia(1);
-                -o-filter: sepia(1);
-                -ms-filter: sepia(1);
-            }
-
-            .hitlist, .grayscale {
-                float: left;
-                clear: both;
-            }
-            .hitlist img, .grayscale img {
-                border: solid 1px #ff0000;
-                height: 200px;
-                width: 200px;
-            }
-
-        </style>
-    </head>
-    <body data-ng-controller="BodyCtrl">
-        <div class="container">
-            <h1><img src="img/ABT_Wars-2015.jpg" /></h1>
-            <img src="img/ABT_Wars-2015_date.jpg" />
-            <p class="lead">Last updated Sept 4 10:52</p>
-            
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="col-lg-4 col-xs-12">
-                        <h2>How To Play</h2>
-                        <button class="btn btn-primary btn-xs" data-ng-click="showRules = !showRules">Rules</button>
-                        <div>
-                            <a href="https://docs.google.com/a/atlanticbt.com/document/d/16Z5fi2QpeBIGkuJcf7l133sntpKcfphapbHjz1hDuE0/edit">Rules Link</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-lg-offset-4 col-xs-12">
-                        <h2>Fresh Kill?</h2>
-                        <p>
-                            Notify By HipChat: Chris Duffy or
-                        </p>            
-                        <p>
-                            Text Message: 704 213 0579
-                        </p>
-                        <p> Updates here: <a href="http://www.twitter.com/abtwars">@abtwars</a>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="row">
-                <div class="well col-xs-12" data-ng-class="{'col-sm-12': toggleExposed, 'col-sm-6': !toggleExposed}">
-                    <h2 data-ng-click="toggleExposed = !toggleExposed"><span class="glyphicon glyphicon-eye-open"></span> Alive</h2>
-                    <div data-ng-repeat="slug in exposed" class="hitlist" data-ng-hide="toggleExposed">
-                        <img data-ng-src="{{employees[slug].image}}" class="pull-left" />
-                        <div>
-                            <h3 data-ng-bind="employees[slug].name"></h3>
-                            <p><span>Kills:</span><span data-ng-bind="employees[slug].kills"></span></p>
-                        </div>
-                        
-                        <br class="clearfix" />
-                    </div>
-                </div>
-                <div class="well col-xs-12" data-ng-class="{'col-sm-12': toggleDead, 'col-sm-6': !toggleDead}">
-                    <h2 data-ng-click="toggleDead = !toggleDead"><span class="glyphicon glyphicon-remove"></span> Dead</h2>
-                    <div data-ng-repeat="slug in killed" class="grayscale" data-ng-hide="toggleDead">
-                        <img data-ng-src="{{employees[slug].image}}" class="pull-left" />
-                        <div>
-                            <h3 data-ng-bind="employees[slug].name"></h3>
-                            <p><span>Kills:</span><span data-ng-bind="employees[slug].kills"></span></p>
-                        </div>
-                        <br class="clearfix" />
-                    </div>
-                </div>
-
-            </div>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>ABT Assassins</title>
+    
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/slate/bootstrap.min.css" rel="stylesheet">
+    <link href="app.css" rel="stylesheet">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div id="top"  class="row text-center">
+        <h1 class="col-xs-12">
+            <img id="logo" src="logo.jpg">
+        </h1>
+        <h3 class="col-xs-12">
+            <a href="https://docs.google.com/a/atlanticbt.com/document/d/16Z5fi2QpeBIGkuJcf7l133sntpKcfphapbHjz1hDuE0">The Rules</a>
+        </h3>
+    </div>
+    
+    <div id="info" class="row">
+        <div class="text-left col-xs-12 col-lg-5">
+            <h3>Latest Update:</h3>
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/abtwars" data-tweet-limit="1"
+                data-widget-id="631287706769862656" data-chrome="noheader nofooter noborders noscrollbar transparent">@abtwars</a>
         </div>
-
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-        <script src="https://code.angularjs.org/1.2.20/angular.min.js"></script>
-        <script src="https://code.angularjs.org/1.2.20/angular-sanitize.min.js"></script>
-        <script src="https://code.angularjs.org/1.2.20/angular-route.min.js"></script>
-        <script src="https://code.angularjs.org/1.2.20/angular-resource.min.js"></script>
-        <script src="js/app.js"></script>
-        <script src="js/app/controllers/body-ctrl.js"></script>
-    </body>
+        <div class="text-right col-xs-12 col-lg-offset-2 col-lg-5">
+            <h3>Fresh Kill?</h3>
+            <p>Notify By HipChat: Chris Duffy or</p>
+            <p>Text Message: 704 213 0579</p>
+            <p>Updates here: <a href="http://www.twitter.com/abtwars">@abtwars</a>
+        </div>
+    </div>
+    
+    <div id="lists" class="row text-center">
+        <div id="living" class="well col-xs-12 col-lg-5">
+            <h2>Alive</h2>
+        </div>
+        <div id="deceased" class="well col-xs-12 col-lg-offset-2 col-lg-5">
+            <h2>Dead</h2>
+        </div>
+    </div>
+</div>
+<script>/*Twitter*/!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script src="app.js"></script>
+</body>
 </html>
