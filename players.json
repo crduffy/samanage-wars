@@ -1,7 +1,7 @@
 {
     "9ine": {
         "name": "9ine",
-        "kills": 0,
+        "kills": 1,
         "status": 1
     },
     "steve": {
@@ -22,7 +22,7 @@
     "baby": {
         "name": "BABY",
         "kills": 0,
-        "status": 1
+        "status": 0
     },
     "barneyfife": {
         "name": "Barney Fife",
@@ -82,7 +82,7 @@
     "oddjob": {
         "name": "Odd Job",
         "kills": 0,
-        "status": 1
+        "status": 0
     },
     "psychokiller": {
         "name": "PsychoKiller",
@@ -111,7 +111,7 @@
     },
     "spookybt": {
         "name": "SpookyBT",
-        "kills": 0,
+        "kills": 1,
         "status": 1
     },
     "thejackal": {
