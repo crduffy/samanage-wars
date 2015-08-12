@@ -36,7 +36,7 @@
     },
     "helena": {
         "name": "Helena",
-        "kills": 1,
+        "kills": 2,
         "status": 1
     },
     "jabberwocky": {
@@ -142,6 +142,6 @@
     "gilligan": {
         "name": "Gilligan the wonder",
         "kills": 0,
-        "status": 1
+        "status": 0
     }
 }
