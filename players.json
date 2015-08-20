@@ -11,7 +11,7 @@
     },
     "angeleyes": {
         "name": "angel eyes",
-        "kills": 1,
+        "kills": 2,
         "status": 1
     },
     "artemis": {
@@ -112,7 +112,7 @@
     "spookybt": {
         "name": "SpookyBT",
         "kills": 1,
-        "status": 1
+        "status": 0
     },
     "thejackal": {
         "name": "The Jackal",
