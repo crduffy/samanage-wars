@@ -11,7 +11,7 @@
     },
     "angeleyes": {
         "name": "angel eyes",
-        "kills": 0,
+        "kills": 1,
         "status": 1
     },
     "artemis": {
@@ -62,7 +62,7 @@
     "liamneeson": {
         "name": "Liam Neeson",
         "kills": 0,
-        "status": 1
+        "status": 0
     },
     "louise": {
         "name": "Louise",
@@ -71,7 +71,7 @@
     },
     "mantis": {
         "name": "Mantis",
-        "kills": 3,
+        "kills": 4,
         "status": 1
     },
     "mrpink": {
@@ -122,7 +122,7 @@
     "themechanic": {
         "name": "The Mechanic",
         "kills": 0,
-        "status": 1
+        "status": 0
     },
     "thesmilingsniper": {
         "name": "The Smiling Sniper",
