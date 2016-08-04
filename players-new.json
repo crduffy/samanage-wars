@@ -69,7 +69,7 @@
     {
       "Code Name" : "Johnny Utah",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -104,9 +104,9 @@
     },
     {
       "Code Name" : "Rue McClanahan",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Johnny Utah"
     },
     {
       "Code Name" : "Russel N. Bushes ",
