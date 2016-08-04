@@ -1,3 +1,4 @@
+
 {
   "abtwars" : [
     {
@@ -9,7 +10,7 @@
     {
       "Code Name" : "Sinister",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Lazer"
     },
     {
@@ -27,7 +28,7 @@
     {
       "Code Name" : "Bivowhack",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -98,9 +99,9 @@
     },
     {
       "Code Name" : "Mr. Pink",
-      "Points" : "",
-      "Dead" : "",
-      "Kills" : ""
+      "Points" : 3,
+      "Dead" : "Yes",
+      "Kills" : "Bivowhack"
     },
     {
       "Code Name" : "Rue McClanahan",
@@ -140,9 +141,9 @@
     },
     {
       "Code Name" : "Squirtle",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Mr. Pink"
     },
     {
       "Code Name" : "SweetNinja",
@@ -152,9 +153,9 @@
     },
     {
       "Code Name" : "tenzo",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Sinister"
     },
     {
       "Code Name" : "The Struggle",
