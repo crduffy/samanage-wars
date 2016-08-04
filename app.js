@@ -24,7 +24,7 @@
 $(document).ready(function(){
     $('#scores').DataTable( {
         "ajax": {
-            "url": 'https://drive.google.com/file/d/0B6cGgFVyO7KgdkYycmxCalN4R0k/view?usp=sharing',
+            "url": 'players-new.json',
             "dataSrc": "abtwars",
         },
         "columns": [

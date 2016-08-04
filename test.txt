@@ -1,9 +1,0 @@
-{
-  "data": [
-          {
-            "name": "Athena",
-            "position": 3,
-            "office": "test"
-          }
-    ]
-  }
