@@ -1,4 +1,3 @@
-
 {
   "abtwars" : [
     {
@@ -135,9 +134,9 @@
     },
     {
       "Code Name" : "Spooky",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Sweet Ninja"
     },
     {
       "Code Name" : "Squirtle",
@@ -148,7 +147,7 @@
     {
       "Code Name" : "SweetNinja",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
