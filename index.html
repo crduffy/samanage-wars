@@ -6,49 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title>ABT Assassins</title>
-    
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/slate/bootstrap.min.css" rel="stylesheet">
-    <link href="app.css" rel="stylesheet">
-    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" />
+    <script src="//cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="app.css" />
 </head>
 <body>
 <div class="container">
     <div id="top"  class="row text-center">
         <h1 class="col-xs-12">
-            <img id="logo" src="logo.jpg">
+            <img src="logo2.jpeg" /> ABT Wars - ScoreBoard
         </h1>
-        <h3 class="col-xs-12">
-            <a href="https://docs.google.com/a/atlanticbt.com/document/d/16Z5fi2QpeBIGkuJcf7l133sntpKcfphapbHjz1hDuE0">The Rules</a>
-        </h3>
     </div>
     
     <div id="info" class="row">
-        <div class="text-left col-xs-12 col-lg-5">
-            <h3>Latest Update:</h3>
-            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/abtwars" data-tweet-limit="1"
-                data-widget-id="631287706769862656" data-chrome="noheader nofooter noborders noscrollbar transparent">@abtwars</a>
-        </div>
-        <div class="text-right col-xs-12 col-lg-offset-2 col-lg-5">
-            <h3>Fresh Kill?</h3>
-            <p>Notify By HipChat: Chris Duffy or</p>
-            <p>Text Message: 704 213 0579</p>
-            <p>Updates here: <a href="http://www.twitter.com/abtwars">@abtwars</a>
-        </div>
+        <p>Rules: <a href="https://docs.google.com/document/d/1eS-ofH-nIDgAxPhWy0zX1Xo9hyqWDYAe6nV5UMXeabM/edit">ABT Wars</a></p>
     </div>
-    
-    <div id="lists" class="row text-center">
-        <div id="living" class="well col-xs-12 col-lg-5">
-            <h2>Alive</h2>
-        </div>
-        <div id="deceased" class="well col-xs-12 col-lg-offset-2 col-lg-5">
-            <h2>Dead</h2>
-        </div>
-    </div>
+
+    <table id="scores" class="display" width="100%">
+        <thead>
+        <tr>
+            <th>Code Name</th>
+            <th>Points</th>
+            <th>Dead</th>
+        </tr>
+        </thead>
+    </table>
 </div>
-<script>/*Twitter*/!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script src="app.js"></script>
 </body>
 </html>
