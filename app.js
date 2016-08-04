@@ -30,7 +30,8 @@ $(document).ready(function(){
         "columns": [
             { "data": "Code Name" },
             { "data": "Points" },
-            { "data": "Dead" }
+            { "data": "Dead" },
+            { "data": "Kills" }
         ],
         "order": [[ 2, "asc" ], [1, "desc"], [0, "asc"]],
         "paging":   false,
