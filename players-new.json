@@ -24,9 +24,9 @@
     {
       "Code Name" : "Badger",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "The Struggle"
     },
     {
       "Code Name" : "Bivowhack",
@@ -51,9 +51,9 @@
     },
     {
       "Code Name" : "Eradicator",
-      "Name" : "",
+      "Name" : "Proctor",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -184,9 +184,9 @@
     },
     {
       "Code Name" : "The Struggle",
-      "Name" : "",
+      "Name" : "Jorma",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -199,9 +199,9 @@
     {
       "Code Name" : "Vesuvius",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Eradicator"
     },
     {
       "Code Name" : "zmattmanz",
