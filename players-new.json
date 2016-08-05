@@ -73,9 +73,9 @@
     {
       "Code Name" : "Inspector Gadget",
       "Name" : "",
-      "Points" : 3,
+      "Points" : 4,
       "Dead" : "",
-      "Kills" : "Rue McClanahan"
+      "Kills" : "Rue McClanahan, Koopa Troopa"
     },
     {
       "Code Name" : "Johnny Utah",
@@ -86,9 +86,9 @@
     },
     {
       "Code Name" : "Koopa Troopa",
-      "Name" : "",
+      "Name" : "Katie",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
