@@ -2,7 +2,7 @@ body {
 
 }
 
-.dead {
-    background-color: #ff0000;
+#scores tr.dead {
+    background-color: #ff9893;
 }
 

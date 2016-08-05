@@ -2,180 +2,210 @@
   "abtwars" : [
     {
       "Code Name" : "Athena",
+      "Name" : "",
       "Points" : 3,
       "Dead" : "",
       "Kills" : "Russel N. Bushes"
     },
     {
       "Code Name" : "Sinister",
+      "Name" : "Brandon",
       "Points" : 3,
       "Dead" : "Yes",
       "Kills" : "Lazer"
     },
     {
       "Code Name" : "AnotherPidgey",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Badger",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Bivowhack",
+      "Name" : "Allan",
       "Points" : "",
       "Dead" : "Yes",
       "Kills" : ""
     },
     {
       "Code Name" : "Darkstar ",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "demogorgon",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Eradicator",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "First!",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Follow Aslan",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Inspector Gadget",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Johnny Utah",
+      "Name" : "Joe",
       "Points" : "",
       "Dead" : "Yes",
       "Kills" : ""
     },
     {
       "Code Name" : "Koopa Troopa",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Lazer",
+      "Name" : "James",
       "Points" : "",
       "Dead" : "Yes",
       "Kills" : ""
     },
     {
       "Code Name" : "Liam F***** Neeson",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Maverick",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Mr. Pink",
+      "Name" : "Thomas",
       "Points" : 3,
       "Dead" : "Yes",
       "Kills" : "Bivowhack"
     },
     {
       "Code Name" : "Rue McClanahan",
+      "Name" : "",
       "Points" : 3,
       "Dead" : "",
       "Kills" : "Johnny Utah"
     },
     {
       "Code Name" : "Russel N. Bushes ",
+      "Name" : "Rachel",
       "Points" : "",
       "Dead" : "Yes",
       "Kills" : ""
     },
     {
       "Code Name" : "Sabertooth",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Snake Charmer",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "snkattck",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Spooky",
+      "Name" : "",
       "Points" : 3,
       "Dead" : "",
       "Kills" : "Sweet Ninja"
     },
     {
       "Code Name" : "Squirtle",
+      "Name" : "",
       "Points" : 3,
       "Dead" : "",
       "Kills" : "Mr. Pink"
     },
     {
       "Code Name" : "SweetNinja",
+      "Name" : "Ria",
       "Points" : "",
       "Dead" : "Yes",
       "Kills" : ""
     },
     {
       "Code Name" : "tenzo",
+      "Name" : "",
       "Points" : 3,
       "Dead" : "",
       "Kills" : "Sinister"
     },
     {
       "Code Name" : "The Struggle",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Tom Brady",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "Vesuvius",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""
     },
     {
       "Code Name" : "zmattmanz",
+      "Name" : "",
       "Points" : "",
       "Dead" : "",
       "Kills" : ""

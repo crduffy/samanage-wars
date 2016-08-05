@@ -29,12 +29,18 @@ $(document).ready(function(){
         },
         "columns": [
             { "data": "Code Name" },
+            { "data": "Name" },
             { "data": "Points" },
             { "data": "Dead" },
             { "data": "Kills" }
         ],
-        "order": [[ 2, "asc" ], [1, "desc"], [0, "asc"]],
+        "order": [[ 3, "asc" ], [2, "desc"], [0, "asc"]],
         "paging":   false,
+        "createdRow": function ( row, data, index ) {
+            if ( data["Dead"] == 'Yes' ) {
+                $(row).addClass('dead');
+            }
+        }
     } );
 
 });
