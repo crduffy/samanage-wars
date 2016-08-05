@@ -73,9 +73,9 @@
     {
       "Code Name" : "Inspector Gadget",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Rue McClanahan"
     },
     {
       "Code Name" : "Johnny Utah",
@@ -121,9 +121,9 @@
     },
     {
       "Code Name" : "Rue McClanahan",
-      "Name" : "",
+      "Name" : "Stacy",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Johnny Utah"
     },
     {
