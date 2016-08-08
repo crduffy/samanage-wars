@@ -2,9 +2,9 @@
   "abtwars" : [
     {
       "Code Name" : "Athena",
-      "Name" : "",
+      "Name" : "Andrea",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Russel N. Bushes"
     },
     {
@@ -73,9 +73,9 @@
     {
       "Code Name" : "Inspector Gadget",
       "Name" : "",
-      "Points" : 4,
+      "Points" : 6,
       "Dead" : "",
-      "Kills" : "Rue McClanahan, Koopa Troopa"
+      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena"
     },
     {
       "Code Name" : "Johnny Utah",
@@ -156,9 +156,9 @@
     },
     {
       "Code Name" : "Spooky",
-      "Name" : "",
+      "Name" : "Victor",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Sweet Ninja"
     },
     {
