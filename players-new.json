@@ -66,9 +66,9 @@
     {
       "Code Name" : "Follow Aslan",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Snake Charmer"
     },
     {
       "Code Name" : "Inspector Gadget",
@@ -142,9 +142,9 @@
     },
     {
       "Code Name" : "Snake Charmer",
-      "Name" : "",
+      "Name" : "Dan Sweet",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
