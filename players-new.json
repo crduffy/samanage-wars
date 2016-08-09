@@ -38,9 +38,9 @@
     {
       "Code Name" : "Darkstar ",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "First!"
     },
     {
       "Code Name" : "demogorgon",
@@ -60,7 +60,7 @@
       "Code Name" : "First!",
       "Name" : "",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -73,9 +73,9 @@
     {
       "Code Name" : "Inspector Gadget",
       "Name" : "",
-      "Points" : 6,
+      "Points" : 7,
       "Dead" : "",
-      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena"
+      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena, tenzo"
     },
     {
       "Code Name" : "Johnny Utah",
@@ -177,9 +177,9 @@
     },
     {
       "Code Name" : "tenzo",
-      "Name" : "",
+      "Name" : "Randy",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Sinister"
     },
     {
@@ -192,22 +192,22 @@
     {
       "Code Name" : "Tom Brady",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Vesuvius"
     },
     {
       "Code Name" : "Vesuvius",
-      "Name" : "",
+      "Name" : "Eric",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Eradicator"
     },
     {
       "Code Name" : "zmattmanz",
       "Name" : "",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     }
   ]}
