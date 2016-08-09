@@ -38,9 +38,9 @@
     {
       "Code Name" : "Darkstar ",
       "Name" : "",
-      "Points" : 3,
+      "Points" : 4,
       "Dead" : "",
-      "Kills" : "First!"
+      "Kills" : "First!, Squirtle"
     },
     {
       "Code Name" : "demogorgon",
@@ -149,9 +149,9 @@
     },
     {
       "Code Name" : "snkattck",
-      "Name" : "",
+      "Name" : "Kate",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -163,10 +163,10 @@
     },
     {
       "Code Name" : "Squirtle",
-      "Name" : "",
-      "Points" : 3,
-      "Dead" : "",
-      "Kills" : "Mr. Pink"
+      "Name" : "Tom",
+      "Points" : 4,
+      "Dead" : "Yes",
+      "Kills" : "Mr. Pink, snkattck"
     },
     {
       "Code Name" : "SweetNinja",
