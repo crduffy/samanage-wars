@@ -16,9 +16,9 @@
     },
     {
       "Code Name" : "AnotherPidgey",
-      "Name" : "",
+      "Name" : "Josh",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
@@ -45,9 +45,9 @@
     {
       "Code Name" : "demogorgon",
       "Name" : "",
-      "Points" : "",
+      "Points" : 3,
       "Dead" : "",
-      "Kills" : ""
+      "Kills" : "Liam F***** Neeson"
     },
     {
       "Code Name" : "Eradicator",
@@ -73,9 +73,9 @@
     {
       "Code Name" : "Inspector Gadget",
       "Name" : "",
-      "Points" : 7,
+      "Points" : 8,
       "Dead" : "",
-      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena, tenzo"
+      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena, tenzo, AnotherPidgey"
     },
     {
       "Code Name" : "Johnny Utah",
@@ -100,9 +100,9 @@
     },
     {
       "Code Name" : "Liam F***** Neeson",
-      "Name" : "",
+      "Name" : "David",
       "Points" : "",
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : ""
     },
     {
