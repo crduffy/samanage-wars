@@ -57,11 +57,11 @@
     {
       "Code Name" : "demogorgon",
       "Name" : "Corey",
-      "Points" : 3,
+      "Points" : 4,
       "Dead" : "",
-      "Kills" : "Liam F***** Neeson",
+      "Kills" : "Liam F***** Neeson, Follow Asian",
       "Scouting Report" : "An expert at hanging out in Doug's backseat.",
-      "Line" : "4-1"
+      "Line" : "3-1"
     },
     {
       "Code Name" : "Eradicator",
@@ -85,7 +85,7 @@
       "Code Name" : "Follow Aslan",
       "Name" : "Janelle",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Snake Charmer",
       "Scouting Report" : "Master of deception.  Runs with a posse at all times.",
       "Line" : "4-1"
