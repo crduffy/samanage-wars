@@ -32,7 +32,9 @@ $(document).ready(function(){
             { "data": "Name" },
             { "data": "Points" },
             { "data": "Dead" },
-            { "data": "Kills" }
+            { "data": "Kills" },
+            { "data": "Scouting Report"},
+            { "data": "Line"}
         ],
         "order": [[ 3, "asc" ], [2, "desc"], [0, "asc"]],
         "paging":   false,
