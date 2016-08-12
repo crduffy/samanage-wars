@@ -31,7 +31,7 @@
       "Code Name" : "Badger",
       "Name" : "Neil",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "The Struggle",
       "Scouting Report" : "Has the speed of a gazelle.  Took an oath of silence at the start of the competition.",
       "Line" : "4-1"
@@ -138,11 +138,11 @@
     {
       "Code Name" : "Maverick",
       "Name" : "Jon Jordan",
-      "Points" : "",
+      "Points" : 1,
       "Dead" : "",
-      "Kills" : "",
+      "Kills" : "Badger",
       "Scouting Report" : "Expert at creative gamesmanship.  Let's see if he can put something on the board.",
-      "Line" : "15-1"
+      "Line" : "4-1"
     },
     {
       "Code Name" : "Mr. Pink",
@@ -178,7 +178,7 @@
       "Dead" : "",
       "Kills" : "",
       "Scouting Report" : "Really needs this win to pay off the tow company.",
-      "Line" : "8-1"
+      "Line" : "6-1"
     },
     {
       "Code Name" : "Snake Charmer",
