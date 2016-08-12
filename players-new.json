@@ -48,9 +48,9 @@
     {
       "Code Name" : "Darkstar ",
       "Name" : "Townsley",
-      "Points" : 4,
+      "Points" : 5,
       "Dead" : "",
-      "Kills" : "First!, Squirtle",
+      "Kills" : "First!, Squirtle, Tom Brady",
       "Scouting Report" : "Had to be talked into participating but now one of the favorites for the finals.",
       "Line" : "3-1"
     },
@@ -247,7 +247,7 @@
       "Code Name" : "Tom Brady",
       "Name" : "Kendall",
       "Points" : 3,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "Vesuvius",
       "Scouting Report" : "Best checkpoint selfie taker in the game.",
       "Line" : "4-1"
