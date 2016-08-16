@@ -49,7 +49,7 @@
       "Code Name" : "Darkstar ",
       "Name" : "Townsley",
       "Points" : 5,
-      "Dead" : "",
+      "Dead" : "Yes",
       "Kills" : "First!, Squirtle, Tom Brady",
       "Scouting Report" : "Had to be talked into participating but now one of the favorites for the finals.",
       "Line" : "3-1"
@@ -57,9 +57,9 @@
     {
       "Code Name" : "demogorgon",
       "Name" : "Corey",
-      "Points" : 4,
+      "Points" : 5,
       "Dead" : "",
-      "Kills" : "Liam F***** Neeson, Follow Asian",
+      "Kills" : "Liam F***** Neeson, Follow Asian, Darkstar",
       "Scouting Report" : "An expert at hanging out in Doug's backseat.",
       "Line" : "3-1"
     },
