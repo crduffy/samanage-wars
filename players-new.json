@@ -1,273 +1,211 @@
 {
   "abtwars" : [
     {
-      "Code Name" : "Athena",
-      "Name" : "Andrea",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Russel N. Bushes",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Sinister",
-      "Name" : "Brandon",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Lazer",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "AnotherPidgey",
-      "Name" : "Josh",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "The Deputy",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Badger",
-      "Name" : "Neil",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "The Struggle",
-      "Scouting Report" : "Has the speed of a gazelle.  Took an oath of silence at the start of the competition.",
-      "Line" : "4-1"
-    },
-    {
-      "Code Name" : "Bivowhack",
-      "Name" : "Allan",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Darkstar ",
-      "Name" : "Townsley",
-      "Points" : 5,
-      "Dead" : "Yes",
-      "Kills" : "First!, Squirtle, Tom Brady",
-      "Scouting Report" : "Had to be talked into participating but now one of the favorites for the finals.",
-      "Line" : "3-1"
-    },
-    {
-      "Code Name" : "demogorgon",
-      "Name" : "Corey",
-      "Points" : 5,
-      "Dead" : "",
-      "Kills" : "Liam F***** Neeson, Follow Asian, Darkstar",
-      "Scouting Report" : "An expert at hanging out in Doug's backseat.",
-      "Line" : "3-1"
-    },
-    {
-      "Code Name" : "Eradicator",
-      "Name" : "Proctor",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "First!",
-      "Name" : "Phil",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Follow Aslan",
-      "Name" : "Janelle",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Snake Charmer",
-      "Scouting Report" : "Master of deception.  Runs with a posse at all times.",
-      "Line" : "4-1"
-    },
-    {
-      "Code Name" : "Inspector Gadget",
-      "Name" : "Andrew",
-      "Points" : 8,
-      "Dead" : "",
-      "Kills" : "Rue McClanahan, Koopa Troopa, Spooky, Athena, tenzo, AnotherPidgey",
-      "Scouting Report" : "Turned a loss of phone, shoes, coffee and a near elimination into 6 kills and the overall favorite. ",
-      "Line" : "2-1"
-    },
-    {
-      "Code Name" : "Johnny Utah",
-      "Name" : "Joe",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Koopa Troopa",
-      "Name" : "Katy",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Lazer",
-      "Name" : "James",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Liam F***** Neeson",
-      "Name" : "David",
-      "Points" : "",
-      "Dead" : "Yes",
-      "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
       "Code Name" : "Maverick",
-      "Name" : "Jon Jordan",
-      "Points" : 1,
-      "Dead" : "",
-      "Kills" : "Badger",
-      "Scouting Report" : "Expert at creative gamesmanship.  Let's see if he can put something on the board.",
-      "Line" : "4-1"
-    },
-    {
-      "Code Name" : "Mr. Pink",
-      "Name" : "Thomas",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Bivowhack",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Rue McClanahan",
-      "Name" : "Stacy",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Johnny Utah",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Russel N. Bushes ",
-      "Name" : "Rachel",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Jon Jordan",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Ghost",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Your Worst Pesadilla",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Jorma Pelto",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Kids Next Door (if taken, I will be \"Iron Man\" (if also taken i'll be \"Liam Neeson\"... from the movie \"Taken\") )",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Pistachio",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "The Turtle",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Space Ghost",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Salt",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "J. Grandberry",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
       "Code Name" : "Sabertooth",
-      "Name" : "Daniel Hooks",
-      "Points" : "",
-      "Dead" : "",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "Really needs this win to pay off the tow company.",
-      "Line" : "6-1"
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
-      "Code Name" : "Snake Charmer",
-      "Name" : "Dan Sweet",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "Shooter",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
-      "Code Name" : "snkattck",
-      "Name" : "Kate",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "Obsidian",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
-      "Code Name" : "Spooky",
-      "Name" : "Victor",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Sweet Ninja",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "Squirtle",
-      "Name" : "Tom",
-      "Points" : 4,
-      "Dead" : "Yes",
-      "Kills" : "Mr. Pink, snkattck",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "SweetNinja",
-      "Name" : "Ria",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "The Sheriff",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
-      "Code Name" : "tenzo",
-      "Name" : "Randy",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Sinister",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "The Struggle",
-      "Name" : "Jorma",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "Poot",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     },
     {
-      "Code Name" : "Tom Brady",
-      "Name" : "Kendall",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Vesuvius",
-      "Scouting Report" : "Best checkpoint selfie taker in the game.",
-      "Line" : "4-1"
-    },
-    {
-      "Code Name" : "Vesuvius",
-      "Name" : "Eric",
-      "Points" : 3,
-      "Dead" : "Yes",
-      "Kills" : "Eradicator",
-      "Scouting Report" : "",
-      "Line" : ""
-    },
-    {
-      "Code Name" : "zmattmanz",
-      "Name" : "Matt",
-      "Points" : "",
-      "Dead" : "Yes",
+      "Code Name" : "John Wick",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
       "Kills" : "",
-      "Scouting Report" : "",
-      "Line" : ""
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "SneakyDeaky",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Jorma",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Frosty Mountain Chicken",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "Honest Assassin ",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
+    },
+    {
+      "Code Name" : "GoldenEye",
+      "Name" : "*****",
+      "Points" : "0",
+      "Dead" : "No",
+      "Kills" : "",
+      "Scouting Report" : "....",
+      "Line" : "23-1"
     }
-  ]}
+  ]
+}
