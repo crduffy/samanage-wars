@@ -94,7 +94,7 @@
       "Code Name" : "Salt",
       "Name" : "*****",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
       "Line" : "23-1"
@@ -147,11 +147,11 @@
     {
       "Code Name" : "Poot",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "5",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "Salt",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "14-1"
     },
     {
       "Code Name" : "John Wick",
