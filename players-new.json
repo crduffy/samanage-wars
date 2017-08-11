@@ -92,7 +92,7 @@
     },
     {
       "Code Name" : "Salt",
-      "Name" : "*****",
+      "Name" : "Chase",
       "Points" : "0",
       "Dead" : "Yes",
       "Kills" : "",
@@ -146,7 +146,7 @@
     },
     {
       "Code Name" : "Poot",
-      "Name" : "Chase",
+      "Name" : "*****",
       "Points" : "5",
       "Dead" : "No",
       "Kills" : "Salt",
