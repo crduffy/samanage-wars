@@ -156,11 +156,11 @@
     {
       "Code Name" : "John Wick",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "GoldenEye",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "16-1"
     },
     {
       "Code Name" : "SneakyDeaky",
@@ -200,12 +200,12 @@
     },
     {
       "Code Name" : "GoldenEye",
-      "Name" : "*****",
+      "Name" : "Dan Sweet",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     }
   ]
 }
