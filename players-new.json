@@ -2,9 +2,9 @@
   "abtwars" : [
     {
       "Code Name" : "The Deputy",
-      "Name" : "*****",
+      "Name" : "Karen",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
       "Line" : "23-1"
@@ -39,11 +39,11 @@
     {
       "Code Name" : "Your Worst Pesadilla",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "The Deputy",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "16-1"
     },
     {
       "Code Name" : "Jorma Pelto",
