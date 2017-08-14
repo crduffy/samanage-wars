@@ -65,21 +65,21 @@
     },
     {
       "Code Name" : "Pistachio",
-      "Name" : "*****",
+      "Name" : "Matt Deal",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "The Turtle",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "Pistachio",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "16-1"
     },
     {
       "Code Name" : "Space Ghost",
@@ -97,7 +97,7 @@
       "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "J. Grandberry",
