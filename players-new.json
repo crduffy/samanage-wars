@@ -20,12 +20,12 @@
     },
     {
       "Code Name" : "Jon Jordan",
-      "Name" : "*****",
+      "Name" : "Andrew Bartlett",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Ghost",
@@ -111,11 +111,11 @@
     {
       "Code Name" : "Sabertooth",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "Jon Jordan",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "16-1"
     },
     {
       "Code Name" : "Shooter",
