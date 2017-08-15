@@ -7,7 +7,7 @@
       "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Maverick",
@@ -39,11 +39,11 @@
     {
       "Code Name" : "Your Worst Pesadilla",
       "Name" : "*****",
-      "Points" : "3",
+      "Points" : "4",
       "Dead" : "No",
-      "Kills" : "The Deputy",
+      "Kills" : "The Deputy, Space Ghost",
       "Scouting Report" : "....",
-      "Line" : "16-1"
+      "Line" : "14-1"
     },
     {
       "Code Name" : "Jorma Pelto",
@@ -83,12 +83,12 @@
     },
     {
       "Code Name" : "Space Ghost",
-      "Name" : "*****",
+      "Name" : "Gordon",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Salt",
@@ -151,7 +151,7 @@
       "Dead" : "No",
       "Kills" : "Salt",
       "Scouting Report" : "....",
-      "Line" : "14-1"
+      "Line" : "13-1"
     },
     {
       "Code Name" : "John Wick",
