@@ -119,12 +119,12 @@
     },
     {
       "Code Name" : "Shooter",
-      "Name" : "*****",
+      "Name" : "Kendall",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Obsidian",
@@ -174,11 +174,11 @@
     {
       "Code Name" : "Jorma",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "Shooter",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "16-1"
     },
     {
       "Code Name" : "Frosty Mountain Chicken",
