@@ -47,12 +47,12 @@
     },
     {
       "Code Name" : "Jorma Pelto",
-      "Name" : "*****",
+      "Name" : "Eric",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Kids Next Door (if taken, I will be \"Iron Man\" (if also taken i'll be \"Liam Neeson\"... from the movie \"Taken\") )",
@@ -156,11 +156,11 @@
     {
       "Code Name" : "John Wick",
       "Name" : "*****",
-      "Points" : "3",
+      "Points" : "4",
       "Dead" : "No",
-      "Kills" : "GoldenEye",
+      "Kills" : "GoldenEye, Jorma Pelto",
       "Scouting Report" : "....",
-      "Line" : "16-1"
+      "Line" : "14-1"
     },
     {
       "Code Name" : "SneakyDeaky",
