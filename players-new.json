@@ -110,12 +110,12 @@
     },
     {
       "Code Name" : "Sabertooth",
-      "Name" : "*****",
+      "Name" : "Daniel Hooks",
       "Points" : "3",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "Jon Jordan",
       "Scouting Report" : "....",
-      "Line" : "16-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Shooter",
@@ -147,11 +147,11 @@
     {
       "Code Name" : "Poot",
       "Name" : "*****",
-      "Points" : "5",
+      "Points" : "6",
       "Dead" : "No",
-      "Kills" : "Salt",
+      "Kills" : "Salt, Sabertooth",
       "Scouting Report" : "....",
-      "Line" : "13-1"
+      "Line" : "10-1"
     },
     {
       "Code Name" : "John Wick",
