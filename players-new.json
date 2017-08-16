@@ -16,7 +16,7 @@
       "Dead" : "No",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "24-1"
     },
     {
       "Code Name" : "Jon Jordan",
@@ -43,7 +43,7 @@
       "Dead" : "No",
       "Kills" : "The Deputy, Space Ghost",
       "Scouting Report" : "....",
-      "Line" : "14-1"
+      "Line" : "13-1"
     },
     {
       "Code Name" : "Jorma Pelto",
@@ -137,12 +137,12 @@
     },
     {
       "Code Name" : "The Sheriff",
-      "Name" : "*****",
+      "Name" : "James Walmsley",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Poot",
@@ -151,16 +151,16 @@
       "Dead" : "No",
       "Kills" : "Salt, Sabertooth",
       "Scouting Report" : "....",
-      "Line" : "10-1"
+      "Line" : "8-1"
     },
     {
       "Code Name" : "John Wick",
-      "Name" : "*****",
-      "Points" : "4",
-      "Dead" : "No",
-      "Kills" : "GoldenEye, Jorma Pelto",
+      "Name" : "John Proctor",
+      "Points" : "5",
+      "Dead" : "Yes",
+      "Kills" : "GoldenEye, Jorma Pelto, The Sheriff",
       "Scouting Report" : "....",
-      "Line" : "14-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "SneakyDeaky",
