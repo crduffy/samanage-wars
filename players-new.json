@@ -75,11 +75,11 @@
     {
       "Code Name" : "The Turtle",
       "Name" : "*****",
-      "Points" : "3",
+      "Points" : "5",
       "Dead" : "No",
-      "Kills" : "Pistachio",
+      "Kills" : "Pistachio, SneakyDeaky, Honest Assassin",
       "Scouting Report" : "....",
-      "Line" : "16-1"
+      "Line" : "10-1"
     },
     {
       "Code Name" : "Space Ghost",
@@ -164,12 +164,12 @@
     },
     {
       "Code Name" : "SneakyDeaky",
-      "Name" : "*****",
+      "Name" : "Kate",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Jorma",
@@ -191,12 +191,12 @@
     },
     {
       "Code Name" : "Honest Assassin ",
-      "Name" : "*****",
+      "Name" : "Townsley",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "GoldenEye",
