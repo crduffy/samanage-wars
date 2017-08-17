@@ -12,11 +12,11 @@
     {
       "Code Name" : "Maverick",
       "Name" : "*****",
-      "Points" : "0",
+      "Points" : "3",
       "Dead" : "No",
-      "Kills" : "",
+      "Kills" : "Obsidian",
       "Scouting Report" : "....",
-      "Line" : "24-1"
+      "Line" : "18-1"
     },
     {
       "Code Name" : "Jon Jordan",
@@ -29,21 +29,21 @@
     },
     {
       "Code Name" : "Ghost",
-      "Name" : "*****",
-      "Points" : "0",
-      "Dead" : "No",
-      "Kills" : "",
+      "Name" : "Neil",
+      "Points" : "3",
+      "Dead" : "Yes",
+      "Kills" : "Kids next door",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Your Worst Pesadilla",
       "Name" : "*****",
-      "Points" : "4",
+      "Points" : "6",
       "Dead" : "No",
-      "Kills" : "The Deputy, Space Ghost",
+      "Kills" : "The Deputy, Space Ghost, the turtle, J. Grandberry",
       "Scouting Report" : "....",
-      "Line" : "13-1"
+      "Line" : "4-1"
     },
     {
       "Code Name" : "Jorma Pelto",
@@ -56,12 +56,12 @@
     },
     {
       "Code Name" : "Kids Next Door (if taken, I will be \"Iron Man\" (if also taken i'll be \"Liam Neeson\"... from the movie \"Taken\") )",
-      "Name" : "*****",
+      "Name" : "Laura",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Pistachio",
@@ -74,12 +74,12 @@
     },
     {
       "Code Name" : "The Turtle",
-      "Name" : "*****",
-      "Points" : "5",
-      "Dead" : "No",
-      "Kills" : "Pistachio, SneakyDeaky, Honest Assassin",
+      "Name" : "Bill",
+      "Points" : "6",
+      "Dead" : "Yes",
+      "Kills" : "Pistachio, SneakyDeaky, Honest Assassin, Ghost",
       "Scouting Report" : "....",
-      "Line" : "10-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Space Ghost",
@@ -101,12 +101,12 @@
     },
     {
       "Code Name" : "J. Grandberry",
-      "Name" : "*****",
+      "Name" : "Stew",
       "Points" : "0",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "Sabertooth",
@@ -128,12 +128,12 @@
     },
     {
       "Code Name" : "Obsidian",
-      "Name" : "*****",
+      "Name" : "Corey",
       "Points" : "3",
-      "Dead" : "No",
+      "Dead" : "Yes",
       "Kills" : "Jorma",
       "Scouting Report" : "....",
-      "Line" : "16-1"
+      "Line" : "NA"
     },
     {
       "Code Name" : "The Sheriff",
@@ -151,7 +151,7 @@
       "Dead" : "No",
       "Kills" : "Salt, Sabertooth",
       "Scouting Report" : "....",
-      "Line" : "8-1"
+      "Line" : "4-1"
     },
     {
       "Code Name" : "John Wick",
@@ -187,7 +187,7 @@
       "Dead" : "No",
       "Kills" : "",
       "Scouting Report" : "....",
-      "Line" : "23-1"
+      "Line" : "19-1"
     },
     {
       "Code Name" : "Honest Assassin ",
