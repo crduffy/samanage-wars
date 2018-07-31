@@ -1,48 +1,51 @@
-/*$(function() {
-    $.ajax({
-        url: 'players-new.json'
-    }).done(function(data) {
-        
-        for (var slug in data) {
-            if (data.hasOwnProperty(slug)) {
 
-                $('<tr>')
-                    .attr('id', slug)
-
-                    .addClass((data[slug].Dead ? 'dead' : ''))
-                    .append( $('<td>').text(slug))
-                    .append( $('<td>').text(data[slug].Points))
-                    .appendTo($('#players'));
-            }
-        }
-
-
-    }).fail(function() {
-        console.log('Ajax Error');
-    });
-});*/
 $(document).ready(function(){
-    $('#scores').DataTable( {
-        "ajax": {
-            "url": 'players-new.json',
-            "dataSrc": "abtwars",
-        },
-        "columns": [
-            { "data": "Code Name" },
-            { "data": "Name" },
-            { "data": "Points" },
-            { "data": "Dead" },
-            { "data": "Kills" },
-            { "data": "Scouting Report"},
-            { "data": "Line"}
-        ],
-        "order": [[ 3, "asc" ], [2, "desc"], [0, "asc"]],
-        "paging":   false,
-        "createdRow": function ( row, data, index ) {
-            if ( data["Dead"] == 'Yes' ) {
-                $(row).addClass('dead');
+    var dataset;
+    $.get('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0K3Fd0_i7aag_gkekRcMQ0hjJn5pJEVFz_8gd8_qT-TmhtcLmMvIU2ff18UebgRXyfQy7LrOVeXDA/pub?gid=0&single=true&output=csv',function(data){
+        dataSet = csvArray(data);
+        $('#scores').DataTable( {
+            data: dataSet ,
+            "columns": [
+                { "title": "Code Name" },
+                //{ "data": "Name" },
+                { "title": "Points" },
+                { "title": "Dead" },
+                { "title": "Kills" },
+                //{ "data": "Scouting Report"},
+                //{ "data": "Line"}
+            ],
+
+            "order": [[ 2, "asc" ], [1, "desc"], [0, "asc"]],
+            "paging":   false,
+            "createdRow": function ( row, data, index ) {
+                if ( data[2] == 'Yes' ) {
+                    $(row).addClass('dead');
+                }
             }
-        }
-    } );
+        } );
+
+    });
+
+
+
 
 });
+
+function csvArray(csv){
+
+    var lines=csv.split("\n");
+    var result = [];
+    var headers=lines[0].split(",");
+
+    for(var i=1;i<lines.length;i++){
+        var obj = [];
+        var currentline=lines[i].split(",");
+        for(var j=0;j<headers.length;j++){
+            obj.push(currentline[j].trim());
+        }
+        result.push(obj);
+
+    }
+    return result;
+}
+
