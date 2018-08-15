@@ -6,3 +6,6 @@ body {
     background-color: #ff9893;
 }
 
+img.logo {
+    max-height: 120px;
+}
