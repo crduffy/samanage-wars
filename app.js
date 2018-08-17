@@ -7,7 +7,7 @@ $(document).ready(function(){
             data: dataSet ,
             "columns": [
                 { "title": "Code Name" },
-                { "data": "Name" },
+                { "title": "Name" },
                 { "title": "Points" },
                 { "title": "Dead" },
                 { "title": "Kills" },
