@@ -7,7 +7,7 @@ $(document).ready(function(){
             data: dataSet ,
             "columns": [
                 { "title": "Code Name" },
-                //{ "data": "Name" },
+                { "data": "Name" },
                 { "title": "Points" },
                 { "title": "Dead" },
                 { "title": "Kills" },
@@ -15,10 +15,10 @@ $(document).ready(function(){
                 //{ "data": "Line"}
             ],
 
-            "order": [[ 2, "asc" ], [1, "desc"], [0, "asc"]],
+            "order": [[ 3, "asc" ], [2, "desc"], [0, "asc"]],
             "paging":   false,
             "createdRow": function ( row, data, index ) {
-                if ( data[2] == 'Yes' ) {
+                if ( data[3] == 'Yes' ) {
                     $(row).addClass('dead');
                 }
             }
