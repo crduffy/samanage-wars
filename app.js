@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
     var dataset;
-    $.get('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0K3Fd0_i7aag_gkekRcMQ0hjJn5pJEVFz_8gd8_qT-TmhtcLmMvIU2ff18UebgRXyfQy7LrOVeXDA/pub?gid=0&single=true&output=csv',function(data){
+    $.get('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7PSLUBbZJ2aQlnTyzZp7YL4oP8yaPRibga_BrXuSXrFCnXKXTBJhJMGDsJezL89gkrwwQq0-I9r32/pub?gid=0&single=true&output=csv',function(data){
         dataSet = csvArray(data);
         $('#scores').DataTable( {
             data: dataSet ,
